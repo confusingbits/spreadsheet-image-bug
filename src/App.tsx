@@ -4,7 +4,7 @@ import Signature from "./Signature";
 function App() {
   return (
     <div className="App">
-      <Signature url="/test.xlsx" />
+      <Signature url="/report.xls" />
     </div>
   );
 }
